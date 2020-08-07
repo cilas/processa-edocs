@@ -1,6 +1,6 @@
 # processa-edocs
 Scrpt em python usado para processar arquivos xml para notas fiscais eletrônicas
-### INSTALL  
+### COMO INSTALAR  
 - Clone o repositório.  
 `git clone https://github.com/cilas/processa-edocs.git`  
 `cd processa-edocs`  
@@ -10,6 +10,6 @@ Scrpt em python usado para processar arquivos xml para notas fiscais eletrônica
 `pip install -r requirements.txt`  
 ### COMO USAR
 - Copie os arquivos xml para pasta `xml`.  
-- Execulte o script.
-`python main.py`
+- Execulte o comando.  
+`python main.py`  
 - O script irá criar uma base de dados Sqlite3 `database.db`.  
